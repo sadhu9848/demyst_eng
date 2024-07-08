@@ -1,0 +1,7 @@
+# Python
+*.pyc
+__pycache__/
+
+# Ignore output files
+output.csv
+fixed_width.txt
